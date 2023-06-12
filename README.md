@@ -1,3 +1,3 @@
 # CSS Ödevi
 
-![Alt text](FantastikKitaplar.gif)
+<video src="FantastikKitaplar.mp4" controls title="Fantastik Kitaplar"></video>
